@@ -1,0 +1,43 @@
+.side
+{
+    position: relative;
+    background-color: rgb(31, 43, 216);
+    margin-right: 1200px;
+    padding-top: 115px;
+    padding-bottom:113px;
+    padding-left:  0;
+    color: white;
+   
+}
+.side img
+{
+    height: 100px;
+}
+.side h1
+{
+    padding-bottom: 30px;
+}
+.side p
+{
+    font-weight: lighter;
+    font-size: large;
+}
+
+
+.side button
+{
+    background-color: white;
+    font-weight: bolder;
+    border-radius: 25px;
+    width: 170px;
+    height: 40px;
+    margin-top: 180px;
+    border-width: 0;
+    
+}
+form
+{
+    margin-left: 410px;
+    margin-top: -500px;
+    
+}
